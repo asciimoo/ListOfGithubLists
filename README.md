@@ -5,8 +5,8 @@ Creating a github list is so trendy nowadays, so here's another one.
 
 ### Lists
 
- * [Country list](https://github.com/umpirsky/country-list)
  * [Frontend development bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+ * [List of countries](https://github.com/umpirsky/country-list)
  * [List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
  * [List of github lists](https://github.com/asciimoo/ListOfGithubLists)
  * [List of minimalist frameworks](https://github.com/neiesc/ListOfMinimalistFrameworks)
