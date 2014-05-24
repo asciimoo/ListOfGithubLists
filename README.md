@@ -15,3 +15,4 @@ Creating a github list is so trendy nowadays, so here's another one.
  * [List of useful things for front-end developers](https://github.com/miripiruni/frontdesk)
  * [Master List of HTML5, JavaScript, and CSS Resources](https://github.com/gloparco/Master-List-of-HTML5-JS-CSS-Resources)
  * [HackerNews Bookmark](https://github.com/praveenhm/HackerNews-Bookmark)
+ * [Python Repositories Collection and Classification](https://github.com/checkcheckzz/Python-open-projects)
