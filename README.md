@@ -8,6 +8,7 @@ Creating a github list is so trendy nowadays, so here's another one.
  * [Frontend development bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
  * [List of countries](https://github.com/umpirsky/country-list)
  * [List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
+ * [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
  * [List of github lists](https://github.com/asciimoo/ListOfGithubLists)
  * [List of minimalist frameworks](https://github.com/neiesc/ListOfMinimalistFrameworks)
  * [List of questions about Ruby programming](https://github.com/gregstallings/ruby-trivia)
