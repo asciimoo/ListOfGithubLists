@@ -16,6 +16,7 @@ Creating a github list is so trendy nowadays, so here's another one.
  * [List of questions about Ruby programming](https://github.com/gregstallings/ruby-trivia)
  * [List of US states](https://github.com/jasonong/List-of-US-States)
  * [List of useful things for front-end developers](https://github.com/miripiruni/frontdesk)
+ * [List of useful resources for system administrators](https://github.com/kahun/awesome-sysadmin)
  * [Master List of HTML5, JavaScript, and CSS Resources](https://github.com/gloparco/Master-List-of-HTML5-JS-CSS-Resources)
  * [Mega Project List](https://github.com/karan/Projects)
  * [Python Repositories Collection and Classification](https://github.com/checkcheckzz/Python-open-projects)
