@@ -25,6 +25,7 @@ Creating a github list is so trendy nowadays, so here's another one.
  * [Master List of HTML5, JavaScript, and CSS Resources](https://github.com/gloparco/Master-List-of-HTML5-JS-CSS-Resources)
  * [Mega Project List](https://github.com/karan/Projects)
  * [One Hundred Ideas for Computing](https://github.com/samsquire/ideas)
+ * [OSI Licenses](https://github.com/timoxley/osi-licenses-full)
  * [Papers from the computer science community to read and discusse](https://github.com/papers-we-love/papers-we-love)
  * [Python Repositories Collection and Classification](https://github.com/checkcheckzz/Python-open-projects)
  * [Rss-readers-list](https://github.com/smithbr/rss-readers-list)
