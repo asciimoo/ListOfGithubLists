@@ -4,7 +4,8 @@ List of github lists
 Creating a github list is so trendy nowadays, so here's another one.
 
 ### Lists
-
+ * [A curated list of amazingly awesome PHP libraries, resources and shiny things](https://github.com/ziadoz/awesome-php)
+ * [A curated list of awesome Python frameworks, libraries and software](https://github.com/vinta/awesome-python)
  * [Collection of useful .gitignore templates](https://github.com/github/gitignore)
  * [Frontend development bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
  * [HackerNews Bookmark](https://github.com/praveenhm/HackerNews-Bookmark)
