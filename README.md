@@ -4,6 +4,7 @@ List of github lists
 Creating a github list is so trendy nowadays, so here's another one.
 
 ### Lists
+ * [A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.](https://github.com/kahun/awesome-sysadmin)
  * [A curated list of amazingly awesome PHP libraries, resources and shiny things](https://github.com/ziadoz/awesome-php)
  * [A curated list of awesome Go frameworks, libraries and software. Inspired by awesome-python.](https://github.com/avelino/awesome-go)
  * [A curated list of awesome Python frameworks, libraries and software](https://github.com/vinta/awesome-python)
