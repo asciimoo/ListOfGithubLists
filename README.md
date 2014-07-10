@@ -4,7 +4,7 @@ List of github lists
 Creating a github list is so trendy nowadays, so here's another one.
 
 
-Feel free to fork/extend.
+Pull requests are welcome
 
 
 ### Lists
