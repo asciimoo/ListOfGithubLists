@@ -3,12 +3,17 @@ List of github lists
 
 Creating a github list is so trendy nowadays, so here's another one.
 
+
+Feel free to fork/extend.
+
+
 ### Lists
- * [A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.](https://github.com/kahun/awesome-sysadmin)
+ * [A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP](https://github.com/kahun/awesome-sysadmin)
  * [A curated list of amazingly awesome PHP libraries, resources and shiny things](https://github.com/ziadoz/awesome-php)
- * [A curated list of awesome Go frameworks, libraries and software. Inspired by awesome-python.](https://github.com/avelino/awesome-go)
+ * [A curated list of awesome Clojure libraries and software](https://github.com/razum2um/awesome-clojure)
+ * [A curated list of awesome curated lists! Inspired by inspiration](https://github.com/erichs/awesome-awesome)
+ * [A curated list of awesome Go frameworks, libraries and software. Inspired by awesome-python](https://github.com/avelino/awesome-go)
  * [A curated list of awesome Python frameworks, libraries and software](https://github.com/vinta/awesome-python)
- * [A curated list of awesome Clojure libraries and software.](https://github.com/razum2um/awesome-clojure)
  * [Collection of useful .gitignore templates](https://github.com/github/gitignore)
  * [Frontend development bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
  * [HackerNews Bookmark](https://github.com/praveenhm/HackerNews-Bookmark)
