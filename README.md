@@ -14,6 +14,7 @@ Feel free to fork/extend.
  * [A curated list of awesome curated lists! Inspired by inspiration](https://github.com/erichs/awesome-awesome)
  * [A curated list of awesome Go frameworks, libraries and software. Inspired by awesome-python](https://github.com/avelino/awesome-go)
  * [A curated list of awesome Python frameworks, libraries and software](https://github.com/vinta/awesome-python)
+ * [Collection and classification of Python open projects on GitHub](https://github.com/checkcheckzz/python-github-projects)
  * [Collection of useful .gitignore templates](https://github.com/github/gitignore)
  * [Frontend development bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
  * [HackerNews Bookmark](https://github.com/praveenhm/HackerNews-Bookmark)
