@@ -32,7 +32,6 @@ Pull requests are welcome
  * [List of US states](https://github.com/jasonong/List-of-US-States)
  * [List of useful things for front-end developers](https://github.com/miripiruni/frontdesk)
  * [List of ruby development resources](https://github.com/saberma/ruby-dev-bookmarks)
- * [List of useful resources for system administrators](https://github.com/kahun/awesome-sysadmin)
  * [Master List of HTML5, JavaScript, and CSS Resources](https://github.com/gloparco/Master-List-of-HTML5-JS-CSS-Resources)
  * [Mega Project List](https://github.com/karan/Projects)
  * [One Hundred Ideas for Computing](https://github.com/samsquire/ideas)
