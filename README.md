@@ -14,6 +14,7 @@ Pull requests are welcome
  * [A curated list of awesome Clojure libraries and software](https://github.com/razum2um/awesome-clojure)
  * [A curated list of awesome Go frameworks, libraries and software. Inspired by awesome-python](https://github.com/avelino/awesome-go)
  * [A curated list of awesome Python frameworks, libraries and software](https://github.com/vinta/awesome-python)
+ * [A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php](https://github.com/alebcay/awesome-shell)
  * [A curated list of awesome curated lists! Inspired by inspiration](https://github.com/erichs/awesome-awesome)
  * [A curated list of awesome tools, resources and workflow tips making an awesome development environment](https://github.com/jondot/awesome-devenv)
  * [Collection and classification of Python open projects on GitHub](https://github.com/checkcheckzz/python-github-projects)
