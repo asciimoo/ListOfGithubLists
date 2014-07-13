@@ -18,6 +18,7 @@ Pull requests are welcome
  * [A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php](https://github.com/alebcay/awesome-shell)
  * [A curated list of awesome curated lists! Inspired by inspiration](https://github.com/erichs/awesome-awesome)
  * [A curated list of awesome tools, resources and workflow tips making an awesome development environment](https://github.com/jondot/awesome-devenv)
+ * [A curated list of curated lists of awesome lists](https://github.com/t3chnoboy/awesome-awesome-awesome)
  * [A definitive list of tools for generating static websites](https://github.com/pinceladasdaweb/Static-Site-Generators)
  * [Collection and classification of Python open projects on GitHub](https://github.com/checkcheckzz/python-github-projects)
  * [Collection of interesting new networks and tech aiming at decentralisation (in some form)](https://github.com/redecentralize/alternative-internet)
