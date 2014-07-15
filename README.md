@@ -24,6 +24,7 @@ Pull requests are welcome
  * [Collection of interesting new networks and tech aiming at decentralisation (in some form)](https://github.com/redecentralize/alternative-internet)
  * [Collection of useful .gitignore templates](https://github.com/github/gitignore)
  * [Frontend development bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+ * [HN Tools of The Trade, 2014 Edition](https://github.com/cjbarber/ToolsOfTheTrade)
  * [HackerNews Bookmark](https://github.com/praveenhm/HackerNews-Bookmark)
  * [Landscaping With Front-end Tools](https://github.com/codylindley/frontend-tools)
  * [List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
