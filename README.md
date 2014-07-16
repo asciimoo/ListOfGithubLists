@@ -13,6 +13,7 @@ Pull requests are welcome
  * [A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP](https://github.com/kahun/awesome-sysadmin)
  * [A curated list of awesome Clojure libraries and software](https://github.com/razum2um/awesome-clojure)
  * [A curated list of awesome Go frameworks, libraries and software. Inspired by awesome-python](https://github.com/avelino/awesome-go)
+ * [A curated list of awesome Machine Learning frameworks, libraries and software](https://github.com/josephmisiti/awesome-machine-learning)
  * [A curated list of awesome Python frameworks, libraries and software](https://github.com/vinta/awesome-python)
  * [A curated list of awesome Scala frameworks, libraries and software](https://github.com/lauris/awesome-scala)
  * [A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php](https://github.com/alebcay/awesome-shell)
