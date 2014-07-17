@@ -24,6 +24,7 @@ Pull requests are welcome
  * [Collection and classification of Python open projects on GitHub](https://github.com/checkcheckzz/python-github-projects)
  * [Collection of interesting new networks and tech aiming at decentralisation (in some form)](https://github.com/redecentralize/alternative-internet)
  * [Collection of useful .gitignore templates](https://github.com/github/gitignore)
+ * [Collection of useful scripts, tutorials, and other Python-related things](https://github.com/rasbt/python_reference)
  * [Frontend development bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
  * [HN Tools of The Trade, 2014 Edition](https://github.com/cjbarber/ToolsOfTheTrade)
  * [HackerNews Bookmark](https://github.com/praveenhm/HackerNews-Bookmark)
