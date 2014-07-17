@@ -3,6 +3,7 @@
 from os.path import realpath, dirname
 from operator import itemgetter
 from sys import exit
+from urlparse import urlparse
 DIR_NAME = realpath(dirname(realpath(__file__)))
 
 
@@ -50,7 +51,10 @@ def __main__():
             outfile.write('\n'.join(' * [{0}]({1})'.format(title, url)
                                     for url, title
                                     in sorted(links.items(), key=itemgetter(1))))
+            parsed_url = urlparse(args.url)
+            _, user, repo = parsed_url.path.split('/', 2)
             print('{0} added'.format(args.title))
+            print('Run `git commit README.md -m "[enh] {0} by @{1}"`'.format(repo, user))
         exit(0)
 
 
