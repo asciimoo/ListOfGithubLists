@@ -38,6 +38,7 @@ Pull requests are welcome
  * [List of github lists](https://github.com/asciimoo/ListOfGithubLists)
  * [List of helpful front-end related questions you can use to interview potential candidates](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
  * [List of minimalist frameworks](https://github.com/neiesc/ListOfMinimalistFrameworks)
+ * [List of must-watch videos devoted to JavaScript](https://github.com/bolshchikov/js-must-watch)
  * [List of popular/awesome videos games, add-on, maps, etc](https://github.com/leereilly/games)
  * [List of questions about Ruby programming](https://github.com/gregstallings/ruby-trivia)
  * [List of ruby development resources](https://github.com/saberma/ruby-dev-bookmarks)
