@@ -32,6 +32,7 @@ Pull requests are welcome
  * [Landscaping With Front-end Tools](https://github.com/codylindley/frontend-tools)
  * [List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
  * [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
+ * [List of Game Development resources to make magic happen](https://github.com/ellisonleao/magictools)
  * [List of US states](https://github.com/jasonong/List-of-US-States)
  * [List of cool features of Git and GitHub](https://github.com/tiimgreen/github-cheat-sheet)
  * [List of countries](https://github.com/umpirsky/country-list)
