@@ -36,6 +36,7 @@ Pull requests are welcome
  * [List of US states](https://github.com/jasonong/List-of-US-States)
  * [List of cool features of Git and GitHub](https://github.com/tiimgreen/github-cheat-sheet)
  * [List of countries](https://github.com/umpirsky/country-list)
+ * [List of crypto projects that might not suck](https://github.com/sweis/crypto-might-not-suck)
  * [List of github lists](https://github.com/asciimoo/ListOfGithubLists)
  * [List of helpful front-end related questions you can use to interview potential candidates](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
  * [List of minimalist frameworks](https://github.com/neiesc/ListOfMinimalistFrameworks)
