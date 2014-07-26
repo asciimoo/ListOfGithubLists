@@ -9,6 +9,7 @@ Pull requests are welcome
 
 ### Lists
 
+ * [A collection of awesome Ruby libraries, tools, frameworks and software](https://github.com/markets/awesome-ruby)
  * [A curated list of amazingly awesome PHP libraries, resources and shiny things](https://github.com/ziadoz/awesome-php)
  * [A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP](https://github.com/kahun/awesome-sysadmin)
  * [A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff](https://github.com/fffaraz/awesome-cpp)
