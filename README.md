@@ -33,6 +33,7 @@ Pull requests are welcome
  * [HN Tools of The Trade, 2014 Edition](https://github.com/cjbarber/ToolsOfTheTrade)
  * [HackerNews Bookmark](https://github.com/praveenhm/HackerNews-Bookmark)
  * [Landscaping With Front-end Tools](https://github.com/codylindley/frontend-tools)
+ * [List of DevOps resources - podcasts, blogs, newsletters, etc](https://github.com/dustinmm80/devops_resources)
  * [List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
  * [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
  * [List of Game Development resources to make magic happen](https://github.com/ellisonleao/magictools)
