@@ -10,6 +10,8 @@ Pull requests are welcome
 ### Lists
 
  * [A collection of awesome Ruby libraries, tools, frameworks and software](https://github.com/markets/awesome-ruby)
+ * [A collection of awesome open-source languages. Inspired by other awesome stuffs](https://github.com/ekremkaraca/awesome-languages)
+ * [A collection of awesome projects, sites made with Rails](https://github.com/ekremkaraca/awesome-rails)
  * [A curated list of amazingly awesome PHP libraries, resources and shiny things](https://github.com/ziadoz/awesome-php)
  * [A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP](https://github.com/kahun/awesome-sysadmin)
  * [A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff](https://github.com/fffaraz/awesome-cpp)
@@ -58,4 +60,3 @@ Pull requests are welcome
  * [Python Repositories Collection and Classification](https://github.com/checkcheckzz/Python-open-projects)
  * [Rss-readers-list](https://github.com/smithbr/rss-readers-list)
  * [Ruby and Ruby on Rails bookmarks collection](https://github.com/dreikanter/ruby-bookmarks)
- * [A collection of awesome projects, sites made with Rails](https://github.com/ekremkaraca/awesome-rails)
