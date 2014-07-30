@@ -40,6 +40,7 @@ Pull requests are welcome
  * [List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
  * [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
  * [List of Game Development resources to make magic happen](https://github.com/ellisonleao/magictools)
+ * [List of Lists of Github Lists](https://github.com/yaph/lologl)
  * [List of US states](https://github.com/jasonong/List-of-US-States)
  * [List of cool features of Git and GitHub](https://github.com/tiimgreen/github-cheat-sheet)
  * [List of countries](https://github.com/umpirsky/country-list)
