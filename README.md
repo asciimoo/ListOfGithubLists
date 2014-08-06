@@ -22,6 +22,7 @@ Pull requests are welcome
  * [A curated list of awesome Machine Learning frameworks, libraries and software](https://github.com/josephmisiti/awesome-machine-learning)
  * [A curated list of awesome Python frameworks, libraries and software](https://github.com/vinta/awesome-python)
  * [A curated list of awesome Scala frameworks, libraries and software](https://github.com/lauris/awesome-scala)
+ * [A curated list of awesome Swift frameworks, libraries and software. Inspired by awesome-php](https://github.com/Wolg/awesome-swift)
  * [A curated list of awesome big data frameworks, ressources and other awesomeness](https://github.com/onurakpolat/awesome-bigdata)
  * [A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php](https://github.com/alebcay/awesome-shell)
  * [A curated list of awesome curated lists! Inspired by inspiration](https://github.com/erichs/awesome-awesome)
