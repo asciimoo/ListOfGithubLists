@@ -26,6 +26,7 @@ Pull requests are welcome
  * [A curated list of awesome big data frameworks, ressources and other awesomeness](https://github.com/onurakpolat/awesome-bigdata)
  * [A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php](https://github.com/alebcay/awesome-shell)
  * [A curated list of awesome curated lists! Inspired by inspiration](https://github.com/erichs/awesome-awesome)
+ * [A curated list of awesome extra libraries for SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
  * [A curated list of awesome tools, resources and workflow tips making an awesome development environment](https://github.com/jondot/awesome-devenv)
  * [A curated list of curated lists of awesome lists](https://github.com/t3chnoboy/awesome-awesome-awesome)
  * [A curated list of delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs)
