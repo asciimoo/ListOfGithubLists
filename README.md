@@ -14,6 +14,7 @@ Pull requests are welcome
  * [A collection of awesome projects, sites made with Rails](https://github.com/ekremkaraca/awesome-rails)
  * [A curated list of amazingly awesome PHP libraries, resources and shiny things](https://github.com/ziadoz/awesome-php)
  * [A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP](https://github.com/kahun/awesome-sysadmin)
+ * [A curated list of awesome Artificial Intelligence (AI) courses, books, video lectures and papers ](https://github.com/owainlewis/awesome-artificial-intelligence)
  * [A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff](https://github.com/fffaraz/awesome-cpp)
  * [A curated list of awesome Clojure libraries and software](https://github.com/razum2um/awesome-clojure)
  * [A curated list of awesome Django apps. Inspired by and based on awesome-python](https://github.com/rosarior/awesome-django)
