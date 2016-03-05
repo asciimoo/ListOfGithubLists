@@ -73,3 +73,4 @@ Pull requests are welcome
  * [Python Repositories Collection and Classification](https://github.com/checkcheckzz/Python-open-projects)
  * [Rss-readers-list](https://github.com/smithbr/rss-readers-list)
  * [Ruby and Ruby on Rails bookmarks collection](https://github.com/dreikanter/ruby-bookmarks)
+ * [Simple, hand-picked list of fuzz strings](https://github.com/DanMcInerney/FuzzStrings)
