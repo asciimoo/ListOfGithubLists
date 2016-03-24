@@ -34,6 +34,7 @@ Pull requests are welcome
  * [A curated list of quality Lua packages and resources](https://github.com/LewisJEllis/awesome-lua)
  * [A curated list of useful EmberJS links.](https://github.com/ember-links/list)
  * [A definitive list of tools for generating static websites](https://github.com/pinceladasdaweb/Static-Site-Generators)
+ * [A list of burner email addresses](https://github.com/wesbos/burner-email-providers)
  * [A list of software and resources for professional audio/video/live events production on Linux.](https://github.com/nodiscc/awesome-linuxaudio)
  * [Big list of naughty strings (dangerous user input)](https://github.com/minimaxir/big-list-of-naughty-strings)
  * [Collection and classification of Python open projects on GitHub](https://github.com/checkcheckzz/python-github-projects)
