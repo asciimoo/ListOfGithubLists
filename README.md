@@ -74,4 +74,5 @@ Pull requests are welcome
  * [Python Repositories Collection and Classification](https://github.com/checkcheckzz/Python-open-projects)
  * [Rss-readers-list](https://github.com/smithbr/rss-readers-list)
  * [Ruby and Ruby on Rails bookmarks collection](https://github.com/dreikanter/ruby-bookmarks)
+ * [SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.](https://github.com/danielmiessler/SecLists)
  * [Simple, hand-picked list of fuzz strings](https://github.com/DanMcInerney/FuzzStrings)
