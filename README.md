@@ -38,6 +38,7 @@ Pull requests are welcome
  * [A list of software and resources for professional audio/video/live events production on Linux.](https://github.com/nodiscc/awesome-linuxaudio)
  * [Big list of naughty strings (dangerous user input)](https://github.com/minimaxir/big-list-of-naughty-strings)
  * [Collection and classification of Python open projects on GitHub](https://github.com/checkcheckzz/python-github-projects)
+ * [Collection of articles and links regarding technical leadership](https://github.com/derekbrown/techlead)
  * [Collection of interesting new networks and tech aiming at decentralisation (in some form)](https://github.com/redecentralize/alternative-internet)
  * [Collection of useful .gitignore templates](https://github.com/github/gitignore)
  * [Collection of useful scripts, tutorials, and other Python-related things](https://github.com/rasbt/python_reference)
