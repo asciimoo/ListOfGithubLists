@@ -32,6 +32,7 @@ Pull requests are welcome
  * [A curated list of curated lists of awesome lists](https://github.com/t3chnoboy/awesome-awesome-awesome)
  * [A curated list of delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs)
  * [A curated list of quality Lua packages and resources](https://github.com/LewisJEllis/awesome-lua)
+ * [A curated list of resources for learning about application security](https://github.com/paragonie/awesome-appsec)
  * [A curated list of useful EmberJS links.](https://github.com/ember-links/list)
  * [A definitive list of tools for generating static websites](https://github.com/pinceladasdaweb/Static-Site-Generators)
  * [A list of burner email addresses](https://github.com/wesbos/burner-email-providers)
