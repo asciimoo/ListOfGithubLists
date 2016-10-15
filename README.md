@@ -72,6 +72,7 @@ Pull requests are welcome
  * [Mega Project List](https://github.com/karan/Projects)
  * [OSI Licenses](https://github.com/timoxley/osi-licenses-full)
  * [One Hundred Ideas for Computing](https://github.com/samsquire/ideas)
+ * [P2P Projects List](https://github.com/moshest/p2p-index)
  * [Papers from the computer science community to read and discusse](https://github.com/papers-we-love/papers-we-love)
  * [Python Repositories Collection and Classification](https://github.com/checkcheckzz/Python-open-projects)
  * [Rss-readers-list](https://github.com/smithbr/rss-readers-list)
