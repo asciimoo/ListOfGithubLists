@@ -29,6 +29,7 @@ Pull requests are welcome
  * [A curated list of awesome curated lists! Inspired by inspiration](https://github.com/erichs/awesome-awesome)
  * [A curated list of awesome extra libraries for SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
  * [A curated list of awesome tools, resources and workflow tips making an awesome development environment](https://github.com/jondot/awesome-devenv)
+ * [A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.](https://github.com/chiraggude/awesome-laravel)
  * [A curated list of curated lists of awesome lists](https://github.com/t3chnoboy/awesome-awesome-awesome)
  * [A curated list of delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs)
  * [A curated list of quality Lua packages and resources](https://github.com/LewisJEllis/awesome-lua)
