@@ -69,6 +69,7 @@ Pull requests are welcome
  * [List of ruby development resources](https://github.com/saberma/ruby-dev-bookmarks)
  * [List of string arrays for android development](https://github.com/vinaygaba/Ultimate-String-Array-List)
  * [List of useful things for front-end developers](https://github.com/miripiruni/frontdesk)
+ * [Machine Learning Algorithms](https://github.com/Sahith02/machine-learning-algorithms)
  * [Master List of HTML5, JavaScript, and CSS Resources](https://github.com/gloparco/Master-List-of-HTML5-JS-CSS-Resources)
  * [Mega Project List](https://github.com/karan/Projects)
  * [OSI Licenses](https://github.com/timoxley/osi-licenses-full)
